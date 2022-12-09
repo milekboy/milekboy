@@ -18,7 +18,7 @@ I'm Wahab from Nigeria. I really enjoy learning languages and frameworks like Re
 - 👯 I’m looking to collaborate on Any React/ React native project 
 - 📫 How to reach me: tijaniwahab25@gmail.com 
 - 😄 Pronouns: He, Him, His 
-- ⚡ Fun fact: i'm 17 years old. 
+- ⚡ Fun fact: i'm 18 years old. 
 
 
 
