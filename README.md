@@ -1,26 +1,38 @@
-### Hi there 👋, my name is Wahab
-#### Web and App development
+# Hi there 👋, I'm Wahab
 
+### Lead Frontend Engineer | Android Developer
 
-I'm Wahab from Nigeria. I really enjoy learning languages and frameworks like React and React Native, I also use tools like Bootstrap to compliment my work sometimes. You can check out some of my works with these links https://milek-love-calc.netlify.app -This is a love calculator webapp built with React https://my-sample-dashboard.netlify.app/ -This is a Dashboard webapp built with React. https://readabearmilek.netlify.app -This is a basic website built with HTML, CSS and Javascript
+I'm a Full-Stack/Frontend Engineer based in Nigeria with 5+ years of experience building high-performance web applications and native Android apps across fintech, SaaS, and enterprise products — from retail banking platforms handling 250,000+ monthly transactions to Kotlin-based mobile apps serving 50,000+ users.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milekboy)](https://github.com/anuraghazra/github-readme-stats)
+I lead frontend architecture using React, Next.js, and TypeScript, and build native Android apps in Kotlin with Jetpack Compose and Clean Architecture.
 
 ## Skills
-- HTML
-- CSS
-- Bootstrap
-- React
-- React Native
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on Any React/ React native project 
-- 📫 How to reach me: tijaniwahab25@gmail.com 
-- 😄 Pronouns: He, Him, His 
-- ⚡I'm a graduate with Bachelor's degree in computer science
-  
+**Frontend**
+- React, Next.js (App Router), TypeScript, JavaScript
+- Tailwind CSS, Zustand, Framer Motion
 
+**Mobile & Android**
+- Kotlin, Jetpack Compose, MVVM, Clean Architecture, Coroutines/Flow
 
+**Backend & APIs**
+- Node.js, REST APIs, JWT Authentication, MySQL
 
+**Tools**
+- Git, GitHub, Firebase, Vercel
 
+## What I'm up to
+
+- 🔭 Leading frontend architecture on fintech and SaaS platforms
+- 🌱 Deepening my Android/Kotlin expertise
+- 👯 Open to collaborating on React, Next.js, or Android projects
+- 📫 Reach me: tijaniwahab25@gmail.com
+- ⚡ B.Sc. Computer Science, Lagos State University
+
+## A few early projects
+
+- [Love Calculator](https://milek-love-calc.netlify.app) — React web app
+- [Sample Dashboard](https://my-sample-dashboard.netlify.app/) — React dashboard UI
+- [Readabear](https://readabearmilek.netlify.app) — HTML, CSS & JavaScript site
+
+[![Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=milekboy)](https://github.com/anuraghazra/github-readme-stats)
