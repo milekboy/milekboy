@@ -18,7 +18,8 @@ I'm Wahab from Nigeria. I really enjoy learning languages and frameworks like Re
 - 👯 I’m looking to collaborate on Any React/ React native project 
 - 📫 How to reach me: tijaniwahab25@gmail.com 
 - 😄 Pronouns: He, Him, His 
-- ⚡I'm a student of Lagos state University
+- ⚡I'm a graduate with Bachelor's degree in computer science
+  
 
 
 
